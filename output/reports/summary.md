@@ -1,11 +1,102 @@
-# Civitai 同步报告 - 2026-01-29 01:56:32 UTC
+# Civitai 同步报告 - 2026-01-30 01:57:13 UTC
 
 - **新增图片**: 2 张
-- **删除图片**: 0 张
+- **删除图片**: 92 张
 
 ## 新增图片详情
-- ID: 119107589, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ec0cfb89-dd89-458d-a806-10a78a072d4d/original=true/ec0cfb89-dd89-458d-a806-10a78a072d4d.jpeg
-- ID: 119107588, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a935b458-f266-4893-88d0-7aeb9d4d25a1/original=true/a935b458-f266-4893-88d0-7aeb9d4d25a1.jpeg
+- ID: 119221909, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ab0cf77c-af11-4214-bd9e-9d276e426c58/original=true/ab0cf77c-af11-4214-bd9e-9d276e426c58.jpeg
+- ID: 119221908, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2885c9c5-8a86-4c0a-b881-1653a7ea6fb4/original=true/2885c9c5-8a86-4c0a-b881-1653a7ea6fb4.jpeg
 
 ## 删除图片详情
-无
+- ID: 82473873, Username: kenzo111
+- ID: 83075190, Username: kenzo111
+- ID: 86846443, Username: kenzo111
+- ID: 82088230, Username: kenzo111
+- ID: 82473874, Username: kenzo111
+- ID: 82689382, Username: kenzo111
+- ID: 85073884, Username: kenzo111
+- ID: 82301771, Username: kenzo111
+- ID: 85443571, Username: kenzo111
+- ID: 82301772, Username: kenzo111
+- ID: 82473959, Username: kenzo111
+- ID: 85651345, Username: kenzo111
+- ID: 83663870, Username: kenzo111
+- ID: 83266326, Username: kenzo111
+- ID: 84660726, Username: kenzo111
+- ID: 82301773, Username: kenzo111
+- ID: 84471409, Username: kenzo111
+- ID: 82473876, Username: kenzo111
+- ID: 81510907, Username: kenzo111
+- ID: 86646711, Username: kenzo111
+- ID: 85851377, Username: kenzo111
+- ID: 83460840, Username: kenzo111
+- ID: 86426789, Username: kenzo111
+- ID: 86426801, Username: kenzo111
+- ID: 81706795, Username: kenzo111
+- ID: 86846459, Username: kenzo111
+- ID: 82473869, Username: kenzo111
+- ID: 83663869, Username: kenzo111
+- ID: 85651347, Username: kenzo111
+- ID: 84256748, Username: kenzo111
+- ID: 84660725, Username: kenzo111
+- ID: 81906193, Username: kenzo111
+- ID: 82473952, Username: kenzo111
+- ID: 86846460, Username: kenzo111
+- ID: 85443570, Username: kenzo111
+- ID: 83869003, Username: kenzo111
+- ID: 84856203, Username: kenzo111
+- ID: 86041450, Username: kenzo111
+- ID: 81510908, Username: kenzo111
+- ID: 85851374, Username: kenzo111
+- ID: 84256743, Username: kenzo111
+- ID: 82088128, Username: kenzo111
+- ID: 86846446, Username: kenzo111
+- ID: 82473877, Username: kenzo111
+- ID: 82473872, Username: kenzo111
+- ID: 83663888, Username: kenzo111
+- ID: 83075189, Username: kenzo111
+- ID: 83460842, Username: kenzo111
+- ID: 82301849, Username: kenzo111
+- ID: 85851376, Username: kenzo111
+- ID: 82473871, Username: kenzo111
+- ID: 82301770, Username: kenzo111
+- ID: 83663887, Username: kenzo111
+- ID: 84055929, Username: kenzo111
+- ID: 85073883, Username: kenzo111
+- ID: 87234893, Username: kenzo111
+- ID: 83460839, Username: kenzo111
+- ID: 81906194, Username: kenzo111
+- ID: 82881177, Username: kenzo111
+- ID: 84256741, Username: kenzo111
+- ID: 86250532, Username: kenzo111
+- ID: 84055937, Username: kenzo111
+- ID: 83869001, Username: kenzo111
+- ID: 86646709, Username: kenzo111
+- ID: 84055940, Username: kenzo111
+- ID: 82088135, Username: kenzo111
+- ID: 84256746, Username: kenzo111
+- ID: 87424147, Username: kenzo111
+- ID: 84256742, Username: kenzo111
+- ID: 81706794, Username: kenzo111
+- ID: 82881264, Username: kenzo111
+- ID: 82689385, Username: kenzo111
+- ID: 86250534, Username: kenzo111
+- ID: 84856224, Username: kenzo111
+- ID: 87234894, Username: kenzo111
+- ID: 86646710, Username: kenzo111
+- ID: 86041449, Username: kenzo111
+- ID: 87234892, Username: kenzo111
+- ID: 87234891, Username: kenzo111
+- ID: 86646708, Username: kenzo111
+- ID: 82881265, Username: kenzo111
+- ID: 82301850, Username: kenzo111
+- ID: 85851375, Username: kenzo111
+- ID: 82088229, Username: kenzo111
+- ID: 83460841, Username: kenzo111
+- ID: 84471408, Username: kenzo111
+- ID: 82473870, Username: kenzo111
+- ID: 84055941, Username: kenzo111
+- ID: 85271269, Username: kenzo111
+- ID: 86426790, Username: kenzo111
+- ID: 82881176, Username: kenzo111
+- ID: 83266327, Username: kenzo111
