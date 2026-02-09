@@ -1,11 +1,13 @@
-# Civitai 同步报告 - 2026-02-08 02:28:33 UTC
+# Civitai 同步报告 - 2026-02-09 02:06:32 UTC
 
-- **新增图片**: 2 张
+- **新增图片**: 4 张
 - **删除图片**: 0 张
 
 ## 新增图片详情
-- ID: 120254708, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3c24fc76-bb6e-4ded-a146-16387c1e808f/original=true/3c24fc76-bb6e-4ded-a146-16387c1e808f.jpeg
-- ID: 120254706, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a6223747-b449-40f2-a4ef-9e2d9cbe7481/original=true/a6223747-b449-40f2-a4ef-9e2d9cbe7481.jpeg
+- ID: 120376489, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1317cf03-54d0-46e8-92fd-71f31de24d54/original=true/1317cf03-54d0-46e8-92fd-71f31de24d54.jpeg
+- ID: 120376488, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3e327887-e2f5-410c-8118-720f506b6ca8/original=true/3e327887-e2f5-410c-8118-720f506b6ca8.jpeg
+- ID: 120376246, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a789895d-f661-4759-80bc-326bc2d72553/original=true/a789895d-f661-4759-80bc-326bc2d72553.jpeg
+- ID: 120376247, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/51404219-5244-4891-9022-32af6e934bc0/original=true/51404219-5244-4891-9022-32af6e934bc0.jpeg
 
 ## 删除图片详情
 无
