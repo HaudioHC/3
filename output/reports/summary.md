@@ -1,11 +1,68 @@
-# Civitai 同步报告 - 2026-03-25 02:05:31 UTC
+# Civitai 同步报告 - 2026-03-26 02:11:19 UTC
 
-- **新增图片**: 2 张
-- **删除图片**: 0 张
+- **新增图片**: 4 张
+- **删除图片**: 56 张
 
 ## 新增图片详情
-- ID: 125245605, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e0893791-9955-427c-b56b-854c986c5442/original=true/e0893791-9955-427c-b56b-854c986c5442.jpeg
-- ID: 125245604, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8475d0c1-e6a7-4523-a122-9a31644a9723/original=true/8475d0c1-e6a7-4523-a122-9a31644a9723.jpeg
+- ID: 125347460, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cc2864ca-c014-4aa7-a71b-0527ab8647cf/original=true/cc2864ca-c014-4aa7-a71b-0527ab8647cf.jpeg
+- ID: 125347461, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/38a03fcf-f13a-4f8d-8f51-cf4a5a46761e/original=true/38a03fcf-f13a-4f8d-8f51-cf4a5a46761e.jpeg
+- ID: 125347400, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4f59ccd4-3449-4e24-8096-fe1b77d01244/original=true/4f59ccd4-3449-4e24-8096-fe1b77d01244.jpeg
+- ID: 125347398, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e993ecbb-77b0-444d-ad91-157f35a49e38/original=true/e993ecbb-77b0-444d-ad91-157f35a49e38.jpeg
 
 ## 删除图片详情
-无
+- ID: 106182431, Username: kenzo111
+- ID: 30229946, Username: kenzo111
+- ID: 16187998, Username: kenzo111
+- ID: 18675876, Username: kenzo111
+- ID: 18675878, Username: kenzo111
+- ID: 105790464, Username: kenzo111
+- ID: 16187991, Username: kenzo111
+- ID: 106023647, Username: kenzo111
+- ID: 30230026, Username: kenzo111
+- ID: 106182236, Username: kenzo111
+- ID: 16187992, Username: kenzo111
+- ID: 18675872, Username: kenzo111
+- ID: 30230027, Username: kenzo111
+- ID: 30230031, Username: kenzo111
+- ID: 30230025, Username: kenzo111
+- ID: 16187988, Username: kenzo111
+- ID: 16187993, Username: kenzo111
+- ID: 18674596, Username: kenzo111
+- ID: 16188001, Username: kenzo111
+- ID: 16188002, Username: kenzo111
+- ID: 106182432, Username: kenzo111
+- ID: 106023648, Username: kenzo111
+- ID: 106182235, Username: kenzo111
+- ID: 30229945, Username: kenzo111
+- ID: 105790542, Username: kenzo111
+- ID: 30229947, Username: kenzo111
+- ID: 106182696, Username: kenzo111
+- ID: 18675867, Username: kenzo111
+- ID: 105790463, Username: kenzo111
+- ID: 105790543, Username: kenzo111
+- ID: 30230029, Username: kenzo111
+- ID: 16186060, Username: kenzo111
+- ID: 16187989, Username: kenzo111
+- ID: 18675875, Username: kenzo111
+- ID: 18675879, Username: kenzo111
+- ID: 30230028, Username: kenzo111
+- ID: 30230030, Username: kenzo111
+- ID: 18675868, Username: kenzo111
+- ID: 18674597, Username: kenzo111
+- ID: 105790515, Username: kenzo111
+- ID: 16186058, Username: kenzo111
+- ID: 30230024, Username: kenzo111
+- ID: 105790514, Username: kenzo111
+- ID: 106182695, Username: kenzo111
+- ID: 18676190, Username: kenzo111
+- ID: 18675874, Username: kenzo111
+- ID: 30230032, Username: kenzo111
+- ID: 18674595, Username: kenzo111
+- ID: 16188000, Username: kenzo111
+- ID: 30229951, Username: kenzo111
+- ID: 30229953, Username: kenzo111
+- ID: 16187995, Username: kenzo111
+- ID: 16187990, Username: kenzo111
+- ID: 18675871, Username: kenzo111
+- ID: 18675873, Username: kenzo111
+- ID: 16187994, Username: kenzo111
