@@ -1,13 +1,12 @@
-# Civitai 同步报告 - 2026-08-20 01:06:36 UTC
+# Civitai 同步报告 - 2026-08-21 01:10:14 UTC
 
-- **新增图片**: 3 张
+- **新增图片**: 2 张
 - **删除图片**: 2 张
 
 ## 新增图片详情
-- ID: 21333960, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/05d8e63b-c09e-4e85-ab5d-2a88c702903e/original=true/05d8e63b-c09e-4e85-ab5d-2a88c702903e.jpeg
-- ID: 140175782, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e7f1410c-78b6-45de-83f7-baaaa6a3befd/original=true/e7f1410c-78b6-45de-83f7-baaaa6a3befd.jpeg
-- ID: 140175781, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b7abff60-869d-4439-96ec-c72e1f9fdc54/original=true/b7abff60-869d-4439-96ec-c72e1f9fdc54.jpeg
+- ID: 140274577, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ad0c64a9-b89c-4393-b597-6608222ae042/original=true/ad0c64a9-b89c-4393-b597-6608222ae042.jpeg
+- ID: 140274593, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5dbb809f-1a08-463e-832d-2037ffcc0001/original=true/5dbb809f-1a08-463e-832d-2037ffcc0001.jpeg
 
 ## 删除图片详情
-- ID: 47713643, Username: kenzo111
-- ID: 23632622, Username: kenzo111
+- ID: 47713644, Username: kenzo111
+- ID: 47713645, Username: kenzo111
